@@ -1,0 +1,1 @@
+Are there any problems with serving pages as application/xhtml+xml?
