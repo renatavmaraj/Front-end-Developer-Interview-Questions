@@ -1,5 +1,8 @@
 How do you serve a page with content in multiple languages?
 
+Use lang (or xml:lang for XHTML) in tags. Also metadata and Content-Language HTTP header can be used.
+--------
+
 To serve a page with content in multiple languages, there are four steps:
 
 1.You must have translated/localized pages on the server for each language you intend to support.
